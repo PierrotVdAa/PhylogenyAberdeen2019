@@ -1,0 +1,57 @@
+- NCBI
+Clark, K., Karsch-Mizrachi, I., Ostell, J., & Sayers, E. W. (2016). GenBank. Nucleic Acids Research, 44(D), 67–72. https://doi.org/10.1093/nar/gkx1094
+
+- Notepad++
+Not necessary
+
+- BLAST
+Not necessary
+Madden, T. The BLAST Sequence Analysis Tool. 2002 Oct 9 [Updated 2003 Aug 13]. In: McEntyre J, Ostell J, editors. The NCBI Handbook [Internet]. Bethesda (MD): National Center for Biotechnology Information (US); 2002-. Chapter 16. Available from: http://www.ncbi.nlm.nih.gov/books/NBK21097/
+
+- MEGA X (depends on the version you use)
+Kumar, S., Stecher, G., Li, M., Knyaz, C., and Tamura, K. (2018).MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549. doi:10.1093/molbev/msy096
+
+- Seaview
+Galtier, N., Gouy, M., & Gautier, C. (1996). SEAVIEW and PHYLO_WIN: two graphic tools for sequence alignment and molecular phylogeny. Computer Applications in the Biosciences (CABIOS), 12(6), 543–548. Retrieved from http://bioinformatics.oxfordjournals.org/content/12/6/543.short
+&
+Gouy, M., Guindon, S., & Gascuel, O. (2010). Sea view version 4: A multiplatform graphical user interface for sequence alignment and phylogenetic tree building. Molecular Biology and Evolution, 27(2), 221–224. https://doi.org/10.1093/molbev/msp259
+
+- MAFFT
+Kuraku, S., Zmasek, C., Nishimura, O., Katoh, K. (2013). aLeaves facilitates on-demand exploration of metazoan gene family trees on MAFFT sequence alignment server with enhanced interactivity. Nucleic Acids Research, 41:W22-W28. doi.org/10.1093/nar/gkt389
+&
+Kazutaka, K., John, R., Kazunori, Y. (2019). MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization. Briefings in Bioinformatics, 20(4):1160–1166. https://doi.org/10.1093/bib/bbx108
+
+- Jmodeltest
+Darriba, D., Taboada, G.L., Doallo, R., Posada, D. (2012). jModelTest 2: more models, new heuristics and parallel computing. Nature Methods, 9(8):772.
+&
+Guindon, S., and Gascuel, O. (2003). A simple, fast and accurate method to estimate large phylogenies by maximum-likelihood". Systematic Biology, 52:696-704.
+
+- PhyML
+Guindon, S., Gascuel, O. (2003). A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by Maximum Likelihood. Systematic Biology, 52(5):696–704. https://doi.org/10.1080/10635150390235520
+
+- IQTREE
+Trifinopoulos, J., Nguyen, L.-T., von Haeseler, A., Quang Minh, B. (2016). W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis. Nucleic Acids Research, 44(1):232–235. https://doi.org/10.1093/nar/gkw256
+
+- Cipres Science Gateway
+Miller, M. A., Pfeiffer, W., & Schwartz, T. (2010). Creating the CIPRES Science Gateway for inference of large phylogenetic trees. 2010 Gateway Computing Environments Workshop, GCE 2010. https://doi.org/10.1109/GCE.2010.5676129
+
+- MrBayes
+Ronquist, F., Teslenko, M., Van Der Mark, P., Ayres, D. L., Darling, A., Höhna, S., … Huelsenbeck, J. P. (2012). Mrbayes 3.2: Efficient bayesian phylogenetic inference and model choice across a large model space. Systematic Biology, 61(3), 539–542. https://doi.org/10.1093/sysbio/sys029
+
+- Beagle
+Ayres, D. L., Darling, A., Zwickl, D. J., Beerli, P., Holder, M. T., Lewis, P. O., … Suchard, M. A. (2012). BEAGLE: An application programming interface and high-performance computing library for statistical phylogenetics. Systematic Biology, 61(1), 170–173. https://doi.org/10.1093/sysbio/syr100
+
+- Tracer
+Rambaut, A., Drummond, A., Xie, D., Baele, G., Suchard, M. (2018). Posterior Summarization in Bayesian Phylogenetics Using Tracer 1.7. Systematic Biology, 67(5):901–904. https://doi.org/10.1093/sysbio/syy032
+
+- CD-Hit
+Ronquist, F., Teslenko, M., Van Der Mark, P., Ayres, D. L., Darling, A., Höhna, S., … Huelsenbeck, J. P. (2012). Mrbayes 3.2: Efficient bayesian phylogenetic inference and model choice across a large model space. Systematic Biology, 61(3), 539–542. https://doi.org/10.1093/sysbio/sys029
+
+- Figtree
+not necessary
+
+- ITOL
+not necessary
+
+- Inkscape
+not necessary
